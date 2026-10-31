@@ -1,0 +1,6 @@
+{
+  "name": "Farmora",
+  "description": "Fresh from farms. Directly to you. A modern agricultural marketplace connecting farmers directly with households, retailers, restaurants, and wholesalers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
